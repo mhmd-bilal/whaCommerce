@@ -77,3 +77,23 @@ whaCommerce is an advanced ecommerce platform built using the MEAN stack (MongoD
    ```bash
    git clone https://github.com/yourusername/whacommerce.git
    cd whacommerce
+
+2. Install server dependencies:
+   ```bash
+   npm install
+
+3. Install client dependencies:
+   ```bash
+   cd client
+   npm install
+   cd ..
+
+4. Start the server:
+   ```bash
+   npm start
+
+5. Start the client:
+   ```bash
+   cd client
+   ng serve
+
