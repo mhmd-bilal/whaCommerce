@@ -75,7 +75,7 @@ whaCommerce is an advanced ecommerce platform built using the MEAN stack (MongoD
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/whacommerce.git
+   git clone https://github.com/mhmd-bilal/whaCommerce.git
    cd whacommerce
 
 2. Install server dependencies:
